@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+html { 
+  background: url(../images/medina.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+main {
+    flex: 1 0 auto;
+  }
